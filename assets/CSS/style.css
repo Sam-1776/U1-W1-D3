@@ -25,10 +25,8 @@ footer {
 .logo img {
   width: 110px;
 }
-.linea {
-  margin: 0;
-}
 .riga {
+  border-top: 2px solid burlywood;
   background-color: antiquewhite;
   height: 30px;
 }
@@ -57,6 +55,10 @@ footer {
   text-align: center;
   color: gray;
 }
+.fet{
+  border-left: 2px solid yellow;
+  padding-left: 10px;
+}
 .featured {
   font-size: 0.8rem;
   color: red;
@@ -64,10 +66,11 @@ footer {
 main div span {
   font-size: 0.8rem;
 }
-.ingredienti {
+h4 {
   margin-top: 40px;
-  margin-bottom: 10px;
+  padding-bottom: 15px;
   font-size: 1.2rem;
+  border-bottom: 2px solid aqua;
 }
 h5{
     margin-bottom: 0px;
