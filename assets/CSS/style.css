@@ -1,0 +1,85 @@
+body {
+  margin: 0;
+}
+header {
+  margin-inline: auto;
+  width: 100%;
+}
+main {
+  margin-inline: auto;
+  width: 500px;
+}
+section {
+  margin-inline: auto;
+  width: 500px;
+}
+footer {
+  margin-inline: auto;
+  width: 500px;
+}
+.logo {
+  margin-top: 8px;
+  margin-inline: auto;
+  width: 100px;
+}
+.logo img {
+  width: 110px;
+}
+.linea {
+  margin: 0;
+}
+.riga {
+  background-color: antiquewhite;
+  height: 30px;
+}
+.riga p {
+  margin-top: 0;
+  padding-top: 7px;
+  text-align: center;
+  font-size: 0.6rem;
+}
+.titolo {
+  text-align: center;
+  font-size: 1.5rem;
+  margin-left: 3px;
+}
+.focaccia video {
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 1px 4px black;
+}
+.focaccia p {
+  text-align: justify;
+  font-size: 0.75rem;
+}
+.autor {
+  font-size: 0.7rem;
+  text-align: center;
+  color: gray;
+}
+.featured {
+  font-size: 0.8rem;
+  color: red;
+}
+main div span {
+  font-size: 0.8rem;
+}
+.ingredienti {
+  margin-top: 40px;
+  margin-bottom: 10px;
+  font-size: 1.2rem;
+}
+h5{
+    margin-bottom: 0px;
+    font-size: 0.9rem;
+}
+ul li {
+  padding: 6px;
+  font-size: 0.75rem;
+}
+ol div{
+    font-size: 0.75rem;
+}
+footer p{
+    font-size: 0.8rem;
+}
